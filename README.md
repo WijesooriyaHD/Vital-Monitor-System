@@ -1,5 +1,7 @@
 # Vital-Monitor-System
 
+## CO327 OS mini project
+
 This project is based on a real-life scenario. In a hospital, there will be a
 number of patients whose vitals (things like heart rate, blood pressure, etc.) should be
 monitored. Each patient would be connected to a vital monitor and these monitors will
